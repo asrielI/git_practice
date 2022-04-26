@@ -1,2 +1,2 @@
 # MyApp
-this is my app
+for practice git command
